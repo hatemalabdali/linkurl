@@ -1,1 +1,0 @@
-https://a5an0oysj.accounts.ondemand.com/saml2/idp/sso?sp=https://www.successfactors.eu/hayelsaeed&idp=https://a5an0oysj.accounts.ondemand.com
